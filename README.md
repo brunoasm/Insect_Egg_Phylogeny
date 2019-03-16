@@ -2,7 +2,7 @@
 
 By Bruno de Medeiros, starting on November 2016
 
-This folder contains scripts used to generate a phylogeny for insect genera present in the insect egg database.
+This folder contains scripts used to generate a phylogeny for insect genera present in the insect egg database. See https://github.com/shchurch/Insect_Egg_Evolution for context and more code related to analysis of insect egg evolution.
 
 
 ## Genes
