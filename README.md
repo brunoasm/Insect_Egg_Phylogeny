@@ -22,8 +22,9 @@ This folder contains the following sub folders:
 * **18S** contains downloaded sequences from SILVA and final 18S alignment.
 * **28S** same as above, for 28S.
 * **constraint_info** contains files needed for setting up phylogenetic constraints based on the Misof and Rainford trees
-* **mrbayes_smalltrees** contains scripts to run mrbayes
-* **phylo_figure** scripts to make phylogenetic trees in the supplement
+* **mrbayes_smalltrees** contains scripts to run mrbayes and resulting trees.
+* **final_trees** contains symbolic links to the final tree files used to study egg evolution.
+* **phylo_figure** contains scripts to make phylogenetic trees in the supplement.
 
 ## Steps
 
