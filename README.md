@@ -1,4 +1,4 @@
-# Genus-level phylogeny
+# Genus-level phylogeny of insects in the egg dataset
 
 By Bruno de Medeiros, starting on November 2016
 
